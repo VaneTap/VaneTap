@@ -1,4 +1,4 @@
-- 👋 Hola, Soy @VaneTap alias Jen (por ITC jaja)
+- 👋 Hola, Soy @VaneTap alias Vanessa 
 - 👀 Me interesa React Native, Reactjs, Flutter y .Net Core. 
 - 🌱 Estoy actualmente aprendiendo  React Native, Flutter y .Net
 - 💞️ Quiero hacer diferentes proyectos que tengo en mente
